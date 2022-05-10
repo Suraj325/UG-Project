@@ -1,7 +1,5 @@
 # MERNSHOP
 
-![banner](airshopNext.png)
-
 ## Server:
 
 Directory: [server/](/server/)
